@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Instruccion_for\obj\Debug\Instruccion_for.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Instruccion_for\obj\Debug\Instruccion_for.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Instruccion_for\obj\Debug\Instruccion_for.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Instruccion_for\bin\Debug\Instruccion_for.exe.config
+C:\Users\PC C1\source\repos\Instruccion_for\bin\Debug\Instruccion_for.exe
+C:\Users\PC C1\source\repos\Instruccion_for\bin\Debug\Instruccion_for.pdb
+C:\Users\PC C1\source\repos\Instruccion_for\obj\Debug\Instruccion_for.exe
+C:\Users\PC C1\source\repos\Instruccion_for\obj\Debug\Instruccion_for.pdb

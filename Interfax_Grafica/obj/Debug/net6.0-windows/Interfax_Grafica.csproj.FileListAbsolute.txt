@@ -1,0 +1,17 @@
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.Form1.resources
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.csproj.GenerateResource.cache
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.AssemblyInfoInputs.cache
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.AssemblyInfo.cs
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Interfax_Grafica\bin\Debug\net6.0-windows\Interfax_Grafica.exe
+C:\Users\PC C1\source\repos\Interfax_Grafica\bin\Debug\net6.0-windows\Interfax_Grafica.deps.json
+C:\Users\PC C1\source\repos\Interfax_Grafica\bin\Debug\net6.0-windows\Interfax_Grafica.runtimeconfig.json
+C:\Users\PC C1\source\repos\Interfax_Grafica\bin\Debug\net6.0-windows\Interfax_Grafica.dll
+C:\Users\PC C1\source\repos\Interfax_Grafica\bin\Debug\net6.0-windows\Interfax_Grafica.pdb
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.dll
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\refint\Interfax_Grafica.dll
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.pdb
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\Interfax_Grafica.genruntimeconfig.cache
+C:\Users\PC C1\source\repos\Interfax_Grafica\obj\Debug\net6.0-windows\ref\Interfax_Grafica.dll

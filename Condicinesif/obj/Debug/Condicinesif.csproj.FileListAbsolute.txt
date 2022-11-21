@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Condicinesif\obj\Debug\Condicinesif.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Condicinesif\obj\Debug\Condicinesif.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Condicinesif\obj\Debug\Condicinesif.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Condicinesif\bin\Debug\Condicinesif.exe.config
+C:\Users\PC C1\source\repos\Condicinesif\bin\Debug\Condicinesif.exe
+C:\Users\PC C1\source\repos\Condicinesif\bin\Debug\Condicinesif.pdb
+C:\Users\PC C1\source\repos\Condicinesif\obj\Debug\Condicinesif.exe
+C:\Users\PC C1\source\repos\Condicinesif\obj\Debug\Condicinesif.pdb

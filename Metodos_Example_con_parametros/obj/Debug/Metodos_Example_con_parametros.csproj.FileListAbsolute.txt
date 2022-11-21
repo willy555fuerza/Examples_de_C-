@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\bin\Debug\Metodos_Example_con_parametros.exe.config
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\bin\Debug\Metodos_Example_con_parametros.exe
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\bin\Debug\Metodos_Example_con_parametros.pdb
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\obj\Debug\Metodos_Example_con_parametros.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\obj\Debug\Metodos_Example_con_parametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\obj\Debug\Metodos_Example_con_parametros.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\obj\Debug\Metodos_Example_con_parametros.exe
+C:\Users\PC C1\source\repos\Metodos_Example_con_parametros\obj\Debug\Metodos_Example_con_parametros.pdb

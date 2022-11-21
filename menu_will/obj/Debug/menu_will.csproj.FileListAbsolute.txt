@@ -1,0 +1,11 @@
+C:\Users\PC C1\source\repos\menu_will\bin\Debug\menu_will.exe.config
+C:\Users\PC C1\source\repos\menu_will\bin\Debug\menu_will.exe
+C:\Users\PC C1\source\repos\menu_will\bin\Debug\menu_will.pdb
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.Form1.resources
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.Properties.Resources.resources
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.csproj.GenerateResource.cache
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.exe
+C:\Users\PC C1\source\repos\menu_will\obj\Debug\menu_will.pdb

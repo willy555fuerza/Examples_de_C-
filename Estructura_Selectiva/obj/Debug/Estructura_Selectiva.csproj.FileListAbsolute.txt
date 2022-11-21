@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Estructura_Selectiva\obj\Debug\Estructura_Selectiva.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Estructura_Selectiva\obj\Debug\Estructura_Selectiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Estructura_Selectiva\obj\Debug\Estructura_Selectiva.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Estructura_Selectiva\bin\Debug\Estructura_Selectiva.exe.config
+C:\Users\PC C1\source\repos\Estructura_Selectiva\bin\Debug\Estructura_Selectiva.exe
+C:\Users\PC C1\source\repos\Estructura_Selectiva\bin\Debug\Estructura_Selectiva.pdb
+C:\Users\PC C1\source\repos\Estructura_Selectiva\obj\Debug\Estructura_Selectiva.exe
+C:\Users\PC C1\source\repos\Estructura_Selectiva\obj\Debug\Estructura_Selectiva.pdb

@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Operadorelacionales\bin\Debug\Operadorelacionales.exe.config
+C:\Users\PC C1\source\repos\Operadorelacionales\bin\Debug\Operadorelacionales.exe
+C:\Users\PC C1\source\repos\Operadorelacionales\bin\Debug\Operadorelacionales.pdb
+C:\Users\PC C1\source\repos\Operadorelacionales\obj\Debug\Operadorelacionales.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Operadorelacionales\obj\Debug\Operadorelacionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Operadorelacionales\obj\Debug\Operadorelacionales.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Operadorelacionales\obj\Debug\Operadorelacionales.exe
+C:\Users\PC C1\source\repos\Operadorelacionales\obj\Debug\Operadorelacionales.pdb

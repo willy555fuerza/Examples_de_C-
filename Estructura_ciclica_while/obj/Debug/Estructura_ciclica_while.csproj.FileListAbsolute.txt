@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\obj\Debug\Estructura_ciclica_while.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\obj\Debug\Estructura_ciclica_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\obj\Debug\Estructura_ciclica_while.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\bin\Debug\Estructura_ciclica_while.exe.config
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\bin\Debug\Estructura_ciclica_while.exe
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\bin\Debug\Estructura_ciclica_while.pdb
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\obj\Debug\Estructura_ciclica_while.exe
+C:\Users\PC C1\source\repos\Estructura_ciclica_while\obj\Debug\Estructura_ciclica_while.pdb

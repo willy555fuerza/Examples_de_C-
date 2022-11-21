@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\PC C1\source\repos\Matrices\bin\Debug\Matrices.exe
+C:\Users\PC C1\source\repos\Matrices\bin\Debug\Matrices.pdb
+C:\Users\PC C1\source\repos\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Matrices\obj\Debug\Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Matrices\obj\Debug\Matrices.exe
+C:\Users\PC C1\source\repos\Matrices\obj\Debug\Matrices.pdb

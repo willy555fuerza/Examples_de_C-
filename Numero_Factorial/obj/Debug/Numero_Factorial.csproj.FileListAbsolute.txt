@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Numero_Factorial\bin\Debug\Numero_Factorial.exe.config
+C:\Users\PC C1\source\repos\Numero_Factorial\bin\Debug\Numero_Factorial.exe
+C:\Users\PC C1\source\repos\Numero_Factorial\bin\Debug\Numero_Factorial.pdb
+C:\Users\PC C1\source\repos\Numero_Factorial\obj\Debug\Numero_Factorial.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Numero_Factorial\obj\Debug\Numero_Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Numero_Factorial\obj\Debug\Numero_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Numero_Factorial\obj\Debug\Numero_Factorial.exe
+C:\Users\PC C1\source\repos\Numero_Factorial\obj\Debug\Numero_Factorial.pdb

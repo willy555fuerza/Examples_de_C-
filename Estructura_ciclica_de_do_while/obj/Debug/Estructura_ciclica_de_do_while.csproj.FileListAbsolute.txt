@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\bin\Debug\Estructura_ciclica_de_do_while.exe.config
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\bin\Debug\Estructura_ciclica_de_do_while.exe
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\bin\Debug\Estructura_ciclica_de_do_while.pdb
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\obj\Debug\Estructura_ciclica_de_do_while.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\obj\Debug\Estructura_ciclica_de_do_while.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\obj\Debug\Estructura_ciclica_de_do_while.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\obj\Debug\Estructura_ciclica_de_do_while.exe
+C:\Users\PC C1\source\repos\Estructura_ciclica_de_do_while\obj\Debug\Estructura_ciclica_de_do_while.pdb

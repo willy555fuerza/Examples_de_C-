@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Metodo_results\bin\Debug\Metodo_results.exe.config
+C:\Users\PC C1\source\repos\Metodo_results\bin\Debug\Metodo_results.exe
+C:\Users\PC C1\source\repos\Metodo_results\bin\Debug\Metodo_results.pdb
+C:\Users\PC C1\source\repos\Metodo_results\obj\Debug\Metodo_results.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Metodo_results\obj\Debug\Metodo_results.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Metodo_results\obj\Debug\Metodo_results.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Metodo_results\obj\Debug\Metodo_results.exe
+C:\Users\PC C1\source\repos\Metodo_results\obj\Debug\Metodo_results.pdb

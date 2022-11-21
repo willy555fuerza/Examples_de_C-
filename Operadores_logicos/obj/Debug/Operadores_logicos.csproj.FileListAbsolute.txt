@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Operadores_logicos\bin\Debug\Operadores_logicos.exe.config
+C:\Users\PC C1\source\repos\Operadores_logicos\bin\Debug\Operadores_logicos.exe
+C:\Users\PC C1\source\repos\Operadores_logicos\bin\Debug\Operadores_logicos.pdb
+C:\Users\PC C1\source\repos\Operadores_logicos\obj\Debug\Operadores_logicos.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Operadores_logicos\obj\Debug\Operadores_logicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Operadores_logicos\obj\Debug\Operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Operadores_logicos\obj\Debug\Operadores_logicos.exe
+C:\Users\PC C1\source\repos\Operadores_logicos\obj\Debug\Operadores_logicos.pdb

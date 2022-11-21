@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\obj\Debug\Ordenar_de_mayor_a_menor.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\obj\Debug\Ordenar_de_mayor_a_menor.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\obj\Debug\Ordenar_de_mayor_a_menor.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\bin\Debug\Ordenar_de_mayor_a_menor.exe.config
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\bin\Debug\Ordenar_de_mayor_a_menor.exe
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\bin\Debug\Ordenar_de_mayor_a_menor.pdb
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\obj\Debug\Ordenar_de_mayor_a_menor.exe
+C:\Users\PC C1\source\repos\Ordenar_de_mayor_a_menor\obj\Debug\Ordenar_de_mayor_a_menor.pdb

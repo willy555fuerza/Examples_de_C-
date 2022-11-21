@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\PC C1\source\repos\Vectores\bin\Debug\Vectores.exe
+C:\Users\PC C1\source\repos\Vectores\bin\Debug\Vectores.pdb
+C:\Users\PC C1\source\repos\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Vectores\obj\Debug\Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Vectores\obj\Debug\Vectores.exe
+C:\Users\PC C1\source\repos\Vectores\obj\Debug\Vectores.pdb

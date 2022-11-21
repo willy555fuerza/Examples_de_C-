@@ -1,0 +1,11 @@
+C:\Users\PC C1\source\repos\Sumas\bin\Debug\Sumas.exe.config
+C:\Users\PC C1\source\repos\Sumas\bin\Debug\Sumas.exe
+C:\Users\PC C1\source\repos\Sumas\bin\Debug\Sumas.pdb
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.Form1.resources
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.Properties.Resources.resources
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.csproj.GenerateResource.cache
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.exe
+C:\Users\PC C1\source\repos\Sumas\obj\Debug\Sumas.pdb

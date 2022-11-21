@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Variabales_Constantes\bin\Debug\Variabales_Constantes.exe.config
+C:\Users\PC C1\source\repos\Variabales_Constantes\bin\Debug\Variabales_Constantes.exe
+C:\Users\PC C1\source\repos\Variabales_Constantes\bin\Debug\Variabales_Constantes.pdb
+C:\Users\PC C1\source\repos\Variabales_Constantes\obj\Debug\Variabales_Constantes.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Variabales_Constantes\obj\Debug\Variabales_Constantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Variabales_Constantes\obj\Debug\Variabales_Constantes.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Variabales_Constantes\obj\Debug\Variabales_Constantes.exe
+C:\Users\PC C1\source\repos\Variabales_Constantes\obj\Debug\Variabales_Constantes.pdb

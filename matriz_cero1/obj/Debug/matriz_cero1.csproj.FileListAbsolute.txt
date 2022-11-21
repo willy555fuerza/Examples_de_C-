@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\matriz_cero1\bin\Debug\matriz_cero1.exe.config
+C:\Users\PC C1\source\repos\matriz_cero1\bin\Debug\matriz_cero1.exe
+C:\Users\PC C1\source\repos\matriz_cero1\bin\Debug\matriz_cero1.pdb
+C:\Users\PC C1\source\repos\matriz_cero1\obj\Debug\matriz_cero1.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\matriz_cero1\obj\Debug\matriz_cero1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\matriz_cero1\obj\Debug\matriz_cero1.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\matriz_cero1\obj\Debug\matriz_cero1.exe
+C:\Users\PC C1\source\repos\matriz_cero1\obj\Debug\matriz_cero1.pdb

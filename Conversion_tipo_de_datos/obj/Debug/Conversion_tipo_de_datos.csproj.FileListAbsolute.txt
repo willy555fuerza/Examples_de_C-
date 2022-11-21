@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\bin\Debug\Conversion_tipo_de_datos.exe.config
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\bin\Debug\Conversion_tipo_de_datos.exe
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\bin\Debug\Conversion_tipo_de_datos.pdb
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\obj\Debug\Conversion_tipo_de_datos.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\obj\Debug\Conversion_tipo_de_datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\obj\Debug\Conversion_tipo_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\obj\Debug\Conversion_tipo_de_datos.exe
+C:\Users\PC C1\source\repos\Conversion_tipo_de_datos\obj\Debug\Conversion_tipo_de_datos.pdb

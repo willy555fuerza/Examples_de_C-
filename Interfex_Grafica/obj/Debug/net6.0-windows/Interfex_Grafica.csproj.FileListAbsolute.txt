@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.Form1.resources
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.UserControl1.resources
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.csproj.GenerateResource.cache
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.AssemblyInfoInputs.cache
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.AssemblyInfo.cs
+C:\Users\PC C1\source\repos\Interfex_Grafica\obj\Debug\net6.0-windows\Interfex_Grafica.csproj.CoreCompileInputs.cache
